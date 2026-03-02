@@ -21,7 +21,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/export-perplexity`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.8 },
     { url: `${base}/support`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.5 },
     { url: `${base}/contact`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.5 },
+    { url: `${base}/docs`, lastModified: new Date(), changeFrequency: "monthly", priority: 0.7 },
     { url: `${base}/privacy`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.3 },
     { url: `${base}/terms`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.3 },
+    { url: `${base}/cookies`, lastModified: new Date(), changeFrequency: "yearly", priority: 0.3 },
   ];
 }
