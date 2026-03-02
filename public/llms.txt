@@ -1,0 +1,28 @@
+# ExportAI
+> Export AI conversations from ChatGPT, Claude, Gemini, DeepSeek, Grok & Perplexity as PDF, Markdown, TXT, JSON, or CSV.
+
+## What is ExportAI?
+ExportAI is a Chrome/Edge extension that lets you export conversations from 6 AI platforms in 5 formats. One extension replaces 3+ competitors. 100% client-side, no backend, no data collection.
+
+## Supported Platforms
+- ChatGPT (chatgpt.com)
+- Claude (claude.ai)
+- Gemini (gemini.google.com)
+- DeepSeek (chat.deepseek.com)
+- Grok (grok.com, x.com/i/grok)
+- Perplexity (perplexity.ai)
+
+## Export Formats
+- PDF (formatted document with code highlighting)
+- Markdown (for Notion, Obsidian, GitHub)
+- Plain Text
+- JSON (structured data)
+- CSV (spreadsheet-ready)
+
+## Pricing
+- Free: Unlimited MD/TXT/JSON/CSV, 3 PDF/day
+- Pro: $4.99/month — unlimited everything
+- Lifetime: $49 one-time
+
+## Privacy
+All processing happens client-side in the browser. No servers, no databases, no data collection.
