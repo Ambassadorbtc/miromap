@@ -12,12 +12,12 @@ export const metadata: Metadata = {
     "ChatGPT downloader",
     "AI conversation tools",
   ],
-  alternates: { canonical: "https://miromap.app/tools" },
+  alternates: { canonical: "https://miromap.com/tools" },
   openGraph: {
     title: "Free AI Chat Tools by Miromap",
     description:
       "6 free tools to manage, export, and optimize your AI conversations. No signup required.",
-    url: "https://miromap.app/tools",
+    url: "https://miromap.com/tools",
   },
 };
 
