@@ -86,7 +86,7 @@ function HeroSidePanelMock() {
       <div className="border-b border-white/5 px-4 py-3">
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
-            <div className="flex h-6 w-6 items-center justify-center rounded-md bg-gradient-to-br from-green-400 to-emerald-600 text-[9px] font-bold text-white">↗</div>
+            <img src="/miromap-logo-free.svg" alt="Miromap" className="h-6 w-6" />
             <span className="text-[13px] font-bold text-white">Miromap</span>
             <span className="text-[13px] text-gray-500">AI Chat Exporter</span>
           </div>

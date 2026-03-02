@@ -33,9 +33,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <div className="flex items-center gap-2.5">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-green-400 to-emerald-600 text-sm font-bold text-white">
-                ↗
-              </div>
+              <img src="/miromap-logo-free.svg" alt="Miromap" className="h-8 w-8" />
               <span className="text-lg font-bold text-ex-dark">Miro<span className="text-ex-green">map</span></span>
             </div>
             <p className="mt-4 text-sm leading-relaxed text-ex-gray">
