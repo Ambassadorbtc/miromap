@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- MIROMAP LOGO — PRO VARIANT (Ring) -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <defs>
-    <linearGradient id="ringPro" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#16A34A"/>
-      <stop offset="100%" stop-color="#059669"/>
-    </linearGradient>
-  </defs>
-  <circle cx="256" cy="256" r="232" fill="none" stroke="url(#ringPro)" stroke-width="18"/>
-  <line x1="155" y1="342" x2="240" y2="162" stroke="#16A34A" stroke-width="14" stroke-linecap="round"/>
-  <line x1="272" y1="162" x2="357" y2="342" stroke="#16A34A" stroke-width="14" stroke-linecap="round"/>
-  <line x1="178" y1="346" x2="334" y2="346" stroke="#16A34A" stroke-width="14" stroke-linecap="round" opacity="0.25"/>
-  <circle cx="155" cy="346" r="36" fill="#16A34A"/>
-  <circle cx="256" cy="148" r="36" fill="#16A34A"/>
-  <circle cx="357" cy="346" r="36" fill="#16A34A"/>
+  <circle cx="256" cy="256" r="220" fill="none" stroke="#22C55E" stroke-width="40"/>
+  <circle cx="256" cy="256" r="60" fill="#22C55E"/>
 </svg>
