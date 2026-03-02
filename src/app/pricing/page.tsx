@@ -28,7 +28,7 @@ const plans = [
   },
   {
     name: "Pro",
-    price: "$4.99",
+    price: "$2.99",
     period: "/month",
     desc: "For power users who export heavily.",
     cta: "Get Pro",
@@ -46,7 +46,7 @@ const plans = [
   },
   {
     name: "Lifetime",
-    price: "$49",
+    price: "$29",
     period: "one-time",
     desc: "Pay once, export forever.",
     cta: "Get Lifetime",
