@@ -8,7 +8,7 @@ export default function PrivacyPage() {
           <div className="mt-8 space-y-6 text-sm leading-relaxed text-ex-gray">
             <div>
               <h2 className="text-lg font-semibold text-ex-dark">Data Collection</h2>
-              <p className="mt-2">ExportAI does not collect, store, transmit, or process any of your conversation data. All export operations happen entirely within your browser. We have no servers that receive your data.</p>
+              <p className="mt-2">Miromap does not collect, store, transmit, or process any of your conversation data. All export operations happen entirely within your browser. We have no servers that receive your data.</p>
             </div>
             <div>
               <h2 className="text-lg font-semibold text-ex-dark">What We Access</h2>
@@ -16,7 +16,7 @@ export default function PrivacyPage() {
             </div>
             <div>
               <h2 className="text-lg font-semibold text-ex-dark">Storage</h2>
-              <p className="mt-2">ExportAI uses Chrome local storage to remember your format preferences and conversation index. This data never leaves your device.</p>
+              <p className="mt-2">Miromap uses Chrome local storage to remember your format preferences and conversation index. This data never leaves your device.</p>
             </div>
             <div>
               <h2 className="text-lg font-semibold text-ex-dark">Third Parties</h2>
@@ -24,7 +24,7 @@ export default function PrivacyPage() {
             </div>
             <div>
               <h2 className="text-lg font-semibold text-ex-dark">Contact</h2>
-              <p className="mt-2">Questions about privacy? Email us at support@exportai.app.</p>
+              <p className="mt-2">Questions about privacy? Email us at support@miromap.app.</p>
             </div>
           </div>
         </div>

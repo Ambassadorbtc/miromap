@@ -3,7 +3,7 @@ import { AnimateOnScroll } from "@/components/animate-on-scroll";
 import { CHROME_EXTENSION_URL } from "@/lib/constants";
 
 const faqs = [
-  { q: "Is ExportAI free?", a: "Yes! Markdown, Text, JSON, and CSV exports are completely free with no limits. PDF exports are free 3 times per day. We offer Pro plans for users who need unlimited PDF exports." },
+  { q: "Is Miromap free?", a: "Yes! Markdown, Text, JSON, and CSV exports are completely free with no limits. PDF exports are free 3 times per day. We offer Pro plans for users who need unlimited PDF exports." },
   { q: "Do I need an account?", a: "No. Just install the extension and start exporting. No sign-up, no email, no credit card." },
   { q: "Is my data safe?", a: "Your conversations never leave your browser. All processing happens client-side. We have no servers, no databases, and no way to access your data." },
   { q: "Which browsers are supported?", a: "Chrome, Edge, and any Chromium-based browser including Brave, Arc, and Opera." },
@@ -19,7 +19,7 @@ export default function SupportPage() {
         <div className="mx-auto max-w-[800px] px-6">
           <AnimateOnScroll className="text-center">
             <h1 className="text-4xl font-bold text-ex-dark md:text-5xl">Support & FAQ</h1>
-            <p className="mx-auto mt-4 max-w-xl text-lg text-ex-gray">Everything you need to know about ExportAI.</p>
+            <p className="mx-auto mt-4 max-w-xl text-lg text-ex-gray">Everything you need to know about Miromap.</p>
           </AnimateOnScroll>
 
           <div className="mt-14 space-y-6">

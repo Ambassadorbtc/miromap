@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://exportai.app/sitemap.xml
+Sitemap: https://miromap.app/sitemap.xml

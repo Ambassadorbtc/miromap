@@ -1,8 +1,8 @@
-# ExportAI
+# Miromap
 > Export AI conversations from ChatGPT, Claude, Gemini, DeepSeek, Grok & Perplexity as PDF, Markdown, TXT, JSON, or CSV.
 
-## What is ExportAI?
-ExportAI is a Chrome/Edge extension that lets you export conversations from 6 AI platforms in 5 formats. One extension replaces 3+ competitors. 100% client-side, no backend, no data collection.
+## What is Miromap?
+Miromap is a Chrome/Edge extension that lets you export conversations from 6 AI platforms in 5 formats. One extension replaces 3+ competitors. 100% client-side, no backend, no data collection.
 
 ## Supported Platforms
 - ChatGPT (chatgpt.com)

@@ -33,7 +33,7 @@ export default function FeaturesPage() {
               Six platforms. Five formats. <span className="text-ex-green">One extension.</span>
             </h1>
             <p className="mx-auto mt-4 max-w-2xl text-lg text-ex-gray">
-              ExportAI replaces 3+ separate extensions with a single install that covers every major AI platform.
+              Miromap replaces 3+ separate extensions with a single install that covers every major AI platform.
             </p>
           </AnimateOnScroll>
         </div>

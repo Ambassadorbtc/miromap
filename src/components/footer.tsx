@@ -36,7 +36,7 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-green-400 to-emerald-600 text-sm font-bold text-white">
                 ↗
               </div>
-              <span className="text-lg font-bold text-ex-dark">Export<span className="text-ex-green">AI</span></span>
+              <span className="text-lg font-bold text-ex-dark">Miro<span className="text-ex-green">map</span></span>
             </div>
             <p className="mt-4 text-sm leading-relaxed text-ex-gray">
               One extension, six AI platforms. Export your conversations as PDF, Markdown, and more.
@@ -89,7 +89,7 @@ export function Footer() {
         </div>
 
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-ex-border pt-8 md:flex-row">
-          <p className="text-xs text-ex-gray">© {new Date().getFullYear()} ExportAI. All rights reserved.</p>
+          <p className="text-xs text-ex-gray">© {new Date().getFullYear()} Miromap. All rights reserved.</p>
           <p className="text-xs text-ex-gray">Not affiliated with OpenAI, Anthropic, Google, xAI, DeepSeek, or Perplexity.</p>
         </div>
       </div>

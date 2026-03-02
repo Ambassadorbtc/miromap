@@ -87,8 +87,8 @@ function HeroSidePanelMock() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="flex h-6 w-6 items-center justify-center rounded-md bg-gradient-to-br from-green-400 to-emerald-600 text-[9px] font-bold text-white">↗</div>
-            <span className="text-[13px] font-bold text-white">ExportAI</span>
-            <span className="text-[13px] text-gray-500">by Miromap</span>
+            <span className="text-[13px] font-bold text-white">Miromap</span>
+            <span className="text-[13px] text-gray-500">AI Chat Exporter</span>
           </div>
           <span className="rounded-full bg-green-500/10 px-2 py-0.5 text-[8px] font-bold text-green-400 uppercase tracking-wider">Free</span>
         </div>
@@ -247,7 +247,7 @@ export default function HomePage() {
 
           <StaggerChildren className="mt-14 grid gap-8 md:grid-cols-3">
             {[
-              { step: "1", title: "Open any AI platform", desc: "Visit ChatGPT, Claude, Gemini, DeepSeek, Grok, or Perplexity. ExportAI detects it automatically.", icon: Globe },
+              { step: "1", title: "Open any AI platform", desc: "Visit ChatGPT, Claude, Gemini, DeepSeek, Grok, or Perplexity. Miromap detects it automatically.", icon: Globe },
               { step: "2", title: "Select conversations", desc: "Open the side panel, browse your chats, and tick the ones you want. Select all or pick individual messages.", icon: FileText },
               { step: "3", title: "Pick format & download", desc: "Choose PDF, Markdown, Text, JSON, or CSV. Click export. File downloads to your machine instantly.", icon: Download },
             ].map((s) => (
@@ -307,7 +307,7 @@ export default function HomePage() {
               They need 3 extensions. You need 1.
             </h2>
             <p className="mx-auto mt-4 max-w-lg text-ex-gray">
-              Competitors sell separate extensions per platform. ExportAI covers all six in one install.
+              Competitors sell separate extensions per platform. Miromap covers all six in one install.
             </p>
           </AnimateOnScroll>
 
@@ -317,7 +317,7 @@ export default function HomePage() {
                 <thead>
                   <tr className="border-b border-ex-border bg-ex-bg">
                     <th className="px-6 py-4 text-left text-sm font-semibold text-ex-dark">Feature</th>
-                    <th className="px-6 py-4 text-center text-sm font-semibold text-ex-green">ExportAI</th>
+                    <th className="px-6 py-4 text-center text-sm font-semibold text-ex-green">Miromap</th>
                     <th className="px-6 py-4 text-center text-sm font-semibold text-ex-gray">Others</th>
                   </tr>
                 </thead>
@@ -370,7 +370,7 @@ export default function HomePage() {
         <div className="mx-auto max-w-[1200px] px-6">
           <AnimateOnScroll className="text-center">
             <h2 className="text-3xl font-bold text-ex-dark md:text-4xl">
-              People love ExportAI
+              People love Miromap
             </h2>
             <p className="mx-auto mt-4 max-w-lg text-ex-gray">
               Join thousands of developers, researchers, and teams who export smarter.
@@ -430,7 +430,7 @@ export default function HomePage() {
               Stop losing your AI conversations.
             </h2>
             <p className="mx-auto mt-4 max-w-lg text-ex-gray">
-              Install ExportAI and start saving your work in seconds. Free forever for most formats.
+              Install Miromap and start saving your work in seconds. Free forever for most formats.
             </p>
 
             <div className="mt-8 flex flex-col items-center justify-center gap-4 sm:flex-row">

@@ -14,11 +14,11 @@ export default function ContactPage() {
             <h1 className="text-4xl font-bold text-ex-dark">Contact Us</h1>
             <p className="mt-4 text-lg text-ex-gray">Got a question, bug report, or feature request?</p>
             <a
-              href="mailto:support@exportai.app"
+              href="mailto:support@miromap.app"
               className="mt-8 inline-flex h-12 items-center gap-2 rounded-full bg-ex-green px-8 text-base font-semibold text-white shadow-lg shadow-green-500/25 transition-all hover:bg-ex-green-dark"
             >
               <Mail size={18} />
-              support@exportai.app
+              support@miromap.app
             </a>
             <p className="mt-6 text-sm text-ex-gray">We typically respond within 24 hours.</p>
           </AnimateOnScroll>

@@ -1,4 +1,4 @@
-# ExportAI — Save AI Chats as PDF, Markdown & More
+# Miromap — Save AI Chats as PDF, Markdown & More
 
 > One extension. Six AI platforms. Five export formats.
 
@@ -44,8 +44,8 @@ Or connect this repo to Vercel for auto-deploy.
 
 ## Related
 
-- [ExportAI Chrome Extension](./extension/) — The extension itself
-- [Chrome Web Store](https://chromewebstore.google.com/detail/exportai) — Install link
+- [Miromap Chrome Extension](./extension/) — The extension itself
+- [Chrome Web Store](https://chromewebstore.google.com/detail/miromap) — Install link
 
 ---
 

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
   display: "swap",
 });
 
-const BASE_URL = "https://exportai.app";
+const BASE_URL = "https://miromap.app";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -27,8 +27,8 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   metadataBase: new URL(BASE_URL),
   title: {
-    default: "ExportAI — Save AI Chats as PDF, Markdown & More | 6 Platforms, 1 Extension",
-    template: "%s | ExportAI",
+    default: "Miromap — Save AI Chats as PDF, Markdown & More | 6 Platforms, 1 Extension",
+    template: "%s | Miromap",
   },
   description:
     "Export conversations from ChatGPT, Claude, Gemini, DeepSeek, Grok & Perplexity. PDF, Markdown, TXT, JSON, CSV. Free Chrome extension. One click, six platforms.",
@@ -44,9 +44,9 @@ export const metadata: Metadata = {
     "Claude to markdown",
     "multi-platform AI exporter",
   ],
-  authors: [{ name: "ExportAI", url: BASE_URL }],
-  creator: "ExportAI",
-  publisher: "ExportAI",
+  authors: [{ name: "Miromap", url: BASE_URL }],
+  creator: "Miromap",
+  publisher: "Miromap",
   robots: {
     index: true,
     follow: true,
@@ -56,14 +56,14 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: BASE_URL,
-    siteName: "ExportAI",
-    title: "ExportAI — Save AI Chats as PDF, Markdown & More",
+    siteName: "Miromap",
+    title: "Miromap — Save AI Chats as PDF, Markdown & More",
     description: "Export conversations from ChatGPT, Claude, Gemini, DeepSeek, Grok & Perplexity. One extension, six platforms.",
-    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "ExportAI — One extension, six AI platforms" }],
+    images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Miromap — One extension, six AI platforms" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "ExportAI — Save AI Chats as PDF, Markdown & More",
+    title: "Miromap — Save AI Chats as PDF, Markdown & More",
     description: "Export conversations from 6 AI platforms. PDF, Markdown, TXT, JSON, CSV. Free Chrome extension.",
     images: ["/og-image.png"],
   },
@@ -75,7 +75,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "SoftwareApplication",
-    name: "ExportAI",
+    name: "Miromap",
     applicationCategory: "BrowserApplication",
     operatingSystem: "Chrome, Edge",
     description: "Export AI conversations from ChatGPT, Claude, Gemini, DeepSeek, Grok & Perplexity as PDF, Markdown, TXT, JSON, or CSV.",

@@ -23,7 +23,7 @@ export function Navbar() {
           <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-gradient-to-br from-green-400 to-emerald-600 text-sm font-bold text-white">
             ↗
           </div>
-          <span className="text-xl font-bold text-ex-dark">Export<span className="text-ex-green">AI</span></span>
+          <span className="text-xl font-bold text-ex-dark">Miro<span className="text-ex-green">map</span></span>
         </Link>
 
         {/* Desktop Nav */}
