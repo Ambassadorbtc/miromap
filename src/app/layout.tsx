@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
   display: "swap",
 });
 
-const BASE_URL = "https://miromap.app";
+const BASE_URL = "https://miromap.com";
 
 export const viewport: Viewport = {
   width: "device-width",
@@ -82,7 +82,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     url: BASE_URL,
     offers: [
       { "@type": "Offer", price: "0", priceCurrency: "USD", name: "Free", description: "Unlimited MD, TXT, JSON, CSV exports. 3 PDF exports per day." },
-      { "@type": "Offer", price: "4.99", priceCurrency: "USD", name: "Pro Monthly", description: "Unlimited PDF exports, batch export, custom templates." },
+      { "@type": "Offer", price: "2.99", priceCurrency: "USD", name: "Pro Monthly", description: "Unlimited PDF exports, batch export, custom templates." },
     ],
     featureList: [
       "Export from ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity",
